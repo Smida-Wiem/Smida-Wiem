@@ -1,4 +1,3 @@
-![logo](https://github.com/wiemsm/wiemsm/blob/main/y.png)
 <h1 align="center">Hi 👋, I'm Smida Wiem</h1>
 <h3 align="center">CS Student at Sorbonne Université</h3>
 
