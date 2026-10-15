@@ -2,14 +2,8 @@
 <h3 align="center">CS Student at Sorbonne Université</h3>
 
 - 🔭 I’m currently an under-graduated student **🔭**
-
-- 🌱 I’m currently learning deep learning **🌱**
-
-- 🔭 Google DSC Core Team Member - Technology Team [🔭](https://gdsc.community.dev/u/mb5jx2/)
-
 - 🤝 Exploring virtual journeys in a world of 0s and 1s **🤝**
-
-- 📫 How to reach me **📫 wiem.smida@icloud.com**
+- 📫 How to reach me **📫 wiem@smida.engineer**
 
 
 
